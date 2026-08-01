@@ -1,0 +1,3 @@
+node_modules/
+./systemTelemetry/dist/
+.env
