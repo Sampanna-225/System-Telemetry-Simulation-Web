@@ -1,4 +1,12 @@
-# React + TypeScript + Vite
+# System Telemetry Simulation Website
+
+System-Telemetry-Simulation-Web Simulates a busy server CPU handling API calls of a medium IT company and shows a dashboard featuring status , CPU usage and Traffic Spike as well as Thermal Throttling to notify the department their server status remotely.
+
+<img width="1905" height="1022" alt="Screenshot 2026-08-01 211654" src="https://github.com/user-attachments/assets/fe018d8f-6d5b-484c-931c-31e0fe4f60bb" />
+
+<img width="1281" height="887" alt="Screenshot 2026-08-01 215301" src="https://github.com/user-attachments/assets/22d959ef-18e3-409a-a568-f22b40305b02" />
+
+<img width="1912" height="1031" alt="Screenshot 2026-08-01 211557" src="https://github.com/user-attachments/assets/b3a7769d-29d0-4889-8113-36ff32bf64f8" />
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
