@@ -15,7 +15,7 @@ export default function App() {
     return () => clearInterval(interval);
   }, []);
 
-  // Telemetry & Spike State
+  // Telemetry & Spike State and did
   const [cpu, setCpu] = useState<CpuMatrix[]>([
     { time: 0, usage: 3 },
     { time: 1, usage: 20 },
